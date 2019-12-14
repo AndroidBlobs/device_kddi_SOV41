@@ -1,0 +1,2 @@
+require version-baseband=1.0.c9-00030-SM8150_GEN_PACK-1
+require version-vendor=1571685779
